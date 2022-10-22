@@ -1,4 +1,8 @@
 config/iterm2/Appsupport/
 config/configstore/
 config/spotify-tui/
+config/powerlevel10k
+.DS_Store
+homebrew/.DS_Store
+config/.DS_Store
 
